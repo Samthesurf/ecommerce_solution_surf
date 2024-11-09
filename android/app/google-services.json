@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820523429031",
+    "project_id": "surf-comm",
+    "storage_bucket": "surf-comm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820523429031:android:222fc0a71da2e4f23c3f82",
+        "android_client_info": {
+          "package_name": "com.ecomm.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvHWc7VlnhZQO9OMO6sOFX1IEQGD9p88c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
